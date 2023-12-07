@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+    background-image: url(https://clickfirstmarketing.com/wp-content/uploads/blog-for-business.jpg);
+    background-repeat: no-repeat;
+}
+
+body *{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+    font-weight: normal;
+    margin: 0;
+}
+
+a,a:hover,a:visited{
+    color: black;
+    text-decoration: none;
+}
