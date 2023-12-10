@@ -2,8 +2,6 @@ Blog App
 Summary:
 Experienced software engineer with a passion for developing robust and user-friendly web applications. Proficient in Python and Django, with a track record of successfully designing, implementing, and deploying scalable solutions. Adept at working in collaborative environments and delivering high-quality code.
 
-Key Project: Blogging Application (Month/Year - Month/Year)
-
 Description:
 Developed a feature-rich blogging application using Python and Django, providing users with a seamless platform to create accounts and publish content. The application includes the following functionalities:
 
