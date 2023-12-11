@@ -27,4 +27,9 @@ Technologies Used:
 
 Python, Django
 SQLite
-Front-end technologies (if applicable, e.g., HTML, CSS, JavaScript)
+Front-end technologies ( HTML, CSS, JavaScript)
+
+How to use it: 
+1/ Activate virtual environment using ". .venv/bin/activate"
+2/ Go into blog_app folder using "cd blog_app".
+3/ Start app using "python3 manage.py runserver".
